@@ -1,0 +1,20 @@
+body{margin: 20px;}
+.fondo{background-color:  rgb(7, 7, 80);}
+.title{color: rgb(2, 7, 7);
+font-size: 6em;
+margin: auto;}
+.Title1 {color: aquamarine; font-size: 3em;}
+.mitexto {color: green;}
+img {width: 12.5em;}
+.img1{ width: 11em;
+border: 2px solid white;
+border-radius: 4px;
+padding: 2px 5px 2px 5px;
+transition: 2s;}
+.img1:hover{ background-color: chocolate;}
+.mitexto1{color: rgb(206, 196, 196);}
+#Title1{ font-size: 5em;
+    width: 25vw;
+    padding: 0.5em;
+}
+
